@@ -31,4 +31,4 @@ z=+3
 end
 w=(3..10).to_a
 puts a
-puts("Ce programme a été réalisé par Augustin S.")
+puts("Ce programme a été réalisé par Nitsugua38")
